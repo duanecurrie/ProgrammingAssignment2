@@ -6,7 +6,7 @@
 #           provides get() and set() member functions to retrieve and set
 #           the value of the wrapped matrix.
 #     - cacheSolve(cacheMatrix):
-#           Returns the inverse of the provide cacheMatrix, computing and
+#           Returns the inverse of the provided cacheMatrix, computing and
 #           caching the inverse if necessary
 
 # Synopsis:
